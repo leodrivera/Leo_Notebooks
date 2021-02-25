@@ -1,0 +1,13 @@
+Desafio 1: 
+
+ Achar os estudantes do prof. Harley Albert que obtiveram média > 70.0 
+ A consulta deverá retornar os seguintes atributos: FirstName, LastName, Course(Name), Média (Grade)  
+  
+
+
+
+Desafio 2: 
+
+Achar todos os cursos que o aluno Adams Delilah se matriculou. 
+ Retorne: course.Name, course.Teacher, credit.Grade
+
