@@ -1,0 +1,9 @@
+ 
+ Usando os recursos dos Pandas:
+ 
+ Retorne um dataframe com  os nomes dos cursos cuja a média obtida (AVG) pelo alunos foi maior ou igual 75.0  
+
+ Retorne um datafrema com os email dos alunos que cursaram 3 vezes um mesmo curso 
+
+ (DESAFIO) Retorne os nomes dos professores mais carrascos - isto é - aqueles cujo o número de alunos reprovados (média menor que 70.0) foi maior do que de
+ alunos aprovados.
