@@ -1,0 +1,11 @@
+Usando os dados de weatherHistory.csv : 
+
+ 1 ) Limpar os dados (se e quando necessário) 
+ 2)  Verificar as correlações entre as diversas colunas de dados  
+ 3)  Analisar se existe uma relação entre Umidade e Temperatura ? 
+ 4)  Construir um modelo de predição que dado a Umidade calcule a temperatura 
+    3.1 ) Testar os  modelos de simples e Polinomial 
+    3.2)  Avaliar cada um dos modelos e determinar qual seria o recomendado (com justificativas) 
+ 
+ 5)  Implementar um(s) modelo(s) de regressão linear usando Umidade e Visibilidade com "features" e temperatura como valor a se predizer
+ 6)  Discutir e apresentar os resultados 
