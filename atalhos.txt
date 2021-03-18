@@ -1,7 +1,10 @@
 Comandos:
 
 Para ajustar o log do git:
+Opção 1:
 git config --global alias.tree "log --all --decorate --oneline --graph"
+Opção 2:
+git config --global alias.tree "log --all --graph --pretty='%C(yellow)%h %C(brightblue)%ad%C(auto)%d %C(reset)%s' --date=format:'%Y-%m-%d %H:%M:%S'"
 
 Outros:
 git config --global alias.co checkout
