@@ -1,0 +1,2 @@
+O arquivo db.csv contém 100 amostras de eletrodomésticos rotulados em 7 classes. 
+Implementar uma rede Neural para realizar a classificação. 
