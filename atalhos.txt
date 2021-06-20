@@ -5,6 +5,8 @@ Opção 1:
 git config --global alias.tree "log --all --decorate --oneline --graph"
 Opção 2:
 git config --global alias.tree "log --all --graph --pretty='%C(yellow)%h %C(brightblue)%ad%C(auto)%d %C(reset)%s' --date=format:'%Y-%m-%d %H:%M:%S'"
+Opção 3 (Com o nome da pessoa. Cores ajustadas para o terminal do Linux)
+git config --global alias.tree "log --all --graph --pretty='%C(yellow)%h %C(blue)%an %C(green)%ad%C(auto)%d %C(reset)%s' --date=format:'%Y-%m-%d %H:%M:%S'"
 
 Outros:
 git config --global alias.co checkout
